@@ -15,7 +15,7 @@ body {
 
 #layout-menu {
 /*	background: #f4f4f4; */
-	background: #630101
+	background: #630101;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -29,7 +29,7 @@ body {
 
 #layout-menu td {
 /*	background: #f4f4f4; */
-	background: #630101
+	background: #630101;
     vertical-align: top;
 }
 
